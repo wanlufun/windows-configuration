@@ -1,0 +1,19 @@
+let mapleader = " "
+
+set clipboard=unnamedplus
+set incsearch
+set ignorecase
+set hlsearch
+set easymotion
+set scrolloff=10
+set number relativenumber
+set keep-english-in-normal
+set which-key
+set notimeout
+
+Plug 'machakann/vim-highlightedyank'
+Plug 'tpope/vim-commentary'
+Plug 'preservim/nerdtree'
+Plug 'easymotion/vim-easymotion'
+
+map Q gq

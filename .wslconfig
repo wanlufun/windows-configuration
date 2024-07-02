@@ -1,0 +1,8 @@
+[wsl2]
+swap=0
+processors=20
+localhostForwarding=true
+nestedVirtualization=true
+
+[experimental]
+autoMemoryReclaim=gradual

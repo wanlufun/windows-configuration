@@ -1,0 +1,9 @@
+*
+
+!.condarc
+!.gitconfig
+!.ideavimrc
+!.npmrc
+!.wslconfig
+!.yarnrc
+!.gitignore

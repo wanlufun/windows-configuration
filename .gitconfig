@@ -1,0 +1,12 @@
+[user]
+	name = Lu Wan
+	email = wanlufun@gmail.com
+	signingkey = 386F591A3D84A5A1BCA5D3A806837B086592FF21
+[core]
+	sshCommand = C:/Windows/System32/OpenSSH/ssh.exe
+	autocrlf = false
+	safecrlf = true
+[gpg]
+	program = "C:\\Program Files (x86)\\gnupg\\bin\\gpg.exe"
+[commit]
+	gpgsign = true
