@@ -1,0 +1,51 @@
+id: 66877a437402e0001a955336
+networkId: N5qkzuay882iQdEuNiByUZNukhvnMsa26UoBF1kRYT9dVYga
+nodes:
+  - addresses:
+      - any-sync-node-1:1001
+      - quic://any-sync-node-1:1011
+      - 110.42.33.90:1001
+      - quic://110.42.33.90:1011
+    peerId: 12D3KooWFDQJS7LUqnf7UtWWRRjmtLtTsQ5mctR5Y9BuZUEGKEg3
+    types:
+      - tree
+  - addresses:
+      - any-sync-node-2:1002
+      - quic://any-sync-node-2:1012
+      - 110.42.33.90:1002
+      - quic://110.42.33.90:1012
+    peerId: 12D3KooWNdZKWwiNNh94qrwrp1rDuA3KyzKZ6i2xqrmH2LhFQ1A4
+    types:
+      - tree
+  - addresses:
+      - any-sync-node-3:1003
+      - quic://any-sync-node-3:1013
+      - 110.42.33.90:1003
+      - quic://110.42.33.90:1013
+    peerId: 12D3KooWAjApJusq3UQcnngw3k29kdRPWnzFLK1vQ8Vjm9eMt1HF
+    types:
+      - tree
+  - addresses:
+      - any-sync-coordinator:1004
+      - quic://any-sync-coordinator:1014
+      - 110.42.33.90:1004
+      - quic://110.42.33.90:1014
+    peerId: 12D3KooWHboQ8SbDcYzRaHRnvriZUYusoUAyon9NsaiqauzRdvqE
+    types:
+      - coordinator
+  - addresses:
+      - any-sync-filenode:1005
+      - quic://any-sync-filenode:1015
+      - 110.42.33.90:1005
+      - quic://110.42.33.90:1015
+    peerId: 12D3KooWFjPTJhdMDxwqVxJVgjc25gfTXqArnPPLAfR2SbFeFJoi
+    types:
+      - file
+  - addresses:
+      - any-sync-consensusnode:1006
+      - quic://any-sync-consensusnode:1016
+      - 110.42.33.90:1006
+      - quic://110.42.33.90:1016
+    peerId: 12D3KooWMCWQxvFvE1BVLM7kXPwB49UvQLC5sEDR56xqB72usieR
+    types:
+      - consensus
